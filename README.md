@@ -1,6 +1,6 @@
 # Wordle on the Badger 2040
 
-![](https://www.makeworld.space/assets/images/wordle_badger2040/main_shot.jpg)
+<img src="https://www.makeworld.space/assets/images/wordle_badger2040/main_shot.jpg" width="300">
 
 This is code to play Wordle on the [Badger 2040](https://shop.pimoroni.com/products/badger-2040).
 
